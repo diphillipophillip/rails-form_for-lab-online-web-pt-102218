@@ -1,4 +1,4 @@
-class SchoolClassesController < ApplicationController 
+aclass SchoolClassesController < ApplicationController 
   
   def index 
     @school_class = SchoolClass.all 
